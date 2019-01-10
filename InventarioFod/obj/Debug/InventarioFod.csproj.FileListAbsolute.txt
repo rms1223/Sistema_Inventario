@@ -1,0 +1,172 @@
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+F:\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+F:\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+F:\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\CircularProgressBar.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Data.SQLite.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\CircularProgressBar.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\Google.Protobuf.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Buffers.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Memory.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\WinFormAnimation.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Web.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Web.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\CircularProgressBar.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Web.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Data.SQLite.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\CircularProgressBar.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Web.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.ConsultaAvanzada.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySql.Web.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Data.SQLite.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySql.Data.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\MySql.Web.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Buffers.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Memory.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\WinFormAnimation.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.ConsultaAvanzada.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Impresion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Consultas.Consulta_Listado.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
